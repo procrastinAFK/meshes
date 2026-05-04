@@ -1,3 +1,3 @@
 # meshes
 
-A collection of the I meshes used for StuyCS Graphics, Spring 2026
+A collection of the meshes I used for StuyCS Graphics, Spring 2026
